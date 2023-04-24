@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class dataProviderAnnotations {
 	
+	
  
   @DataProvider(name="data-provider")
   public Object [][] dataProviderMethod(){
